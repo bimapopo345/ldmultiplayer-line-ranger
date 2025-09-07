@@ -1,0 +1,22 @@
+[
+  {
+    "image": "loading_awal_masuk_game.png",
+    "screen_type": "loading",
+    "confidence": "medium",
+    "yellow_pixels": 4798,
+    "purple_pixels": 317869,
+    "brown_pixels": 648,
+    "circles_detected": 186,
+    "timestamp": "2025-09-07 09:52:12"
+  },
+  {
+    "image": "lobby.png",
+    "screen_type": "loading",
+    "confidence": "high",
+    "yellow_pixels": 318583,
+    "purple_pixels": 92009,
+    "brown_pixels": 183490,
+    "circles_detected": 335,
+    "timestamp": "2025-09-07 09:52:13"
+  }
+]

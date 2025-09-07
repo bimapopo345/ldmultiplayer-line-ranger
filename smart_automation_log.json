@@ -1,0 +1,177 @@
+[
+  {
+    "timestamp": "2025-09-07 10:06:16",
+    "action": "LDPLAYER_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:19",
+    "action": "ADB_CONNECTED",
+    "details": "Connected in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:19",
+    "action": "ANDROID_READY",
+    "details": "Ready in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:19",
+    "action": "GAME_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:22",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:29",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:36",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:43",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:50",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:06:57",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:04",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:11",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:18",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:25",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:33",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:40",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:47",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:07:53",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:00",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:07",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:15",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:47",
+    "action": "LDPLAYER_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:47",
+    "action": "ADB_CONNECTED",
+    "details": "Connected in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:47",
+    "action": "ANDROID_READY",
+    "details": "Ready in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:47",
+    "action": "GAME_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:50",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:50",
+    "action": "LOBBY_REACHED",
+    "details": "Loading selesai dalam 2s"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:51",
+    "action": "CLICK",
+    "details": "Klik di (800, 350)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:55",
+    "action": "CLICK",
+    "details": "Klik di (316, 784)"
+  },
+  {
+    "timestamp": "2025-09-07 10:08:59",
+    "action": "CLICK",
+    "details": "Klik di (405, 211)"
+  },
+  {
+    "timestamp": "2025-09-07 10:09:06",
+    "action": "CLICK",
+    "details": "Klik di (405, 211)"
+  },
+  {
+    "timestamp": "2025-09-07 10:09:13",
+    "action": "CLICK",
+    "details": "Klik di (405, 211)"
+  },
+  {
+    "timestamp": "2025-09-07 10:09:20",
+    "action": "CLICK",
+    "details": "Klik di (405, 211)"
+  },
+  {
+    "timestamp": "2025-09-07 10:09:27",
+    "action": "CLICK",
+    "details": "Klik di (405, 211)"
+  },
+  {
+    "timestamp": "2025-09-07 10:09:33",
+    "action": "AUTOMATION_COMPLETE",
+    "details": "Automasi main stage selesai"
+  }
+]
