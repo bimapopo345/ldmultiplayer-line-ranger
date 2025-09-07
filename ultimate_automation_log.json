@@ -1,0 +1,832 @@
+[
+  {
+    "timestamp": "2025-09-07 10:16:46",
+    "action": "LDPLAYER_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:46",
+    "action": "ADB_CONNECTED",
+    "details": "Connected in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:46",
+    "action": "ANDROID_READY",
+    "details": "Ready in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:46",
+    "action": "GAME_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:47",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:47",
+    "action": "LOBBY_REACHED",
+    "details": "Loading selesai dalam 1s"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:49",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:49",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:49",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:58",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:58",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:16:58",
+    "action": "CLICK",
+    "details": "Klik di (403, 434)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:07",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:07",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:08",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:17",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:17",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:17",
+    "action": "CLICK",
+    "details": "Klik di (403, 434)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:26",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:26",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:26",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:35",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:35",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:35",
+    "action": "CLICK",
+    "details": "Klik di (1357, 170)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:45",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:45",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:45",
+    "action": "CLICK",
+    "details": "Klik di (1357, 170)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:54",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:54",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:17:55",
+    "action": "CLICK",
+    "details": "Klik di (403, 434)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:04",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:04",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:04",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:13",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:13",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:13",
+    "action": "CLICK",
+    "details": "Klik di (403, 434)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:23",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:23",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:23",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:32",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:32",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:32",
+    "action": "CLICK",
+    "details": "Klik di (403, 434)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:42",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:42",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:42",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:51",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:51",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:18:51",
+    "action": "CLICK",
+    "details": "Klik di (403, 434)"
+  },
+  {
+    "timestamp": "2025-09-07 10:19:00",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:19:00",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:19:01",
+    "action": "CLICK",
+    "details": "Klik di (1350, 147)"
+  },
+  {
+    "timestamp": "2025-09-07 10:19:09",
+    "action": "AUTOMATION_COMPLETE",
+    "details": "Ultimate automation selesai (15 cycles)"
+  },
+  {
+    "timestamp": "2025-09-07 10:24:53",
+    "action": "LDPLAYER_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:24:55",
+    "action": "ADB_CONNECTED",
+    "details": "Connected in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:24:55",
+    "action": "ANDROID_READY",
+    "details": "Ready in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:24:55",
+    "action": "GAME_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:24:58",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:05",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:05",
+    "action": "LOBBY_REACHED",
+    "details": "Loading selesai dalam 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:07",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:07",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: loading"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:13",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:13",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:14",
+    "action": "CLICK",
+    "details": "Klik di (967, 39)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:22",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:22",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:23",
+    "action": "CLICK",
+    "details": "Klik di (675, 495)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:31",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:31",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:31",
+    "action": "CLICK",
+    "details": "Klik di (559, 48)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:42",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:42",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:42",
+    "action": "CLICK",
+    "details": "Klik di (967, 39)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:51",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:51",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:25:51",
+    "action": "CLICK",
+    "details": "Klik di (676, 312)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:01",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:01",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: loading"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:06",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:07",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: loading"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:12",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:12",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:12",
+    "action": "CLICK",
+    "details": "Klik di (967, 39)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:21",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:21",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:21",
+    "action": "CLICK",
+    "details": "Klik di (675, 495)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:32",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:32",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: loading"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:37",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:37",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: loading"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:43",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:43",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:43",
+    "action": "CLICK",
+    "details": "Klik di (967, 39)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:52",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:52",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:26:52",
+    "action": "CLICK",
+    "details": "Klik di (675, 495)"
+  },
+  {
+    "timestamp": "2025-09-07 10:27:01",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:27:01",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:27:01",
+    "action": "CLICK",
+    "details": "Klik di (116, 679)"
+  },
+  {
+    "timestamp": "2025-09-07 10:27:09",
+    "action": "AUTOMATION_COMPLETE",
+    "details": "Ultimate automation selesai (15 cycles)"
+  },
+  {
+    "timestamp": "2025-09-07 10:28:58",
+    "action": "LDPLAYER_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:28:58",
+    "action": "ADB_CONNECTED",
+    "details": "Connected in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:28:58",
+    "action": "ANDROID_READY",
+    "details": "Ready in 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:28:58",
+    "action": "GAME_STATUS",
+    "details": "Already running"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:01",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:08",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:08",
+    "action": "LOBBY_REACHED",
+    "details": "Loading selesai dalam 10s"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:11",
+    "action": "SCREEN_DETECTED",
+    "details": "loading (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:11",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: loading"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:16",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:16",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:16",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (798, 280)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:16",
+    "action": "CLICK",
+    "details": "Klik di (798, 280)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:25",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:26",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:26",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:26",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:35",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:35",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:35",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:36",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:45",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:45",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:45",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:45",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:54",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:54",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:54",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:29:54",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:03",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:04",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:04",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:04",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:15",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:15",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:15",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:15",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:24",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:24",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:24",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:24",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:33",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:34",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:34",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:34",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:43",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:43",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:43",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:43",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:53",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:53",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:53",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:30:53",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:03",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:03",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:03",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:03",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:12",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:12",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:12",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:12",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:21",
+    "action": "SCREEN_DETECTED",
+    "details": "lobby (high)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:22",
+    "action": "AI_INTERFACE_CREATED",
+    "details": "Screen type: lobby"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:22",
+    "action": "MAIN_STAGE_FOUND",
+    "details": "Position: (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:22",
+    "action": "CLICK",
+    "details": "Klik di (1114, 411)"
+  },
+  {
+    "timestamp": "2025-09-07 10:31:30",
+    "action": "AUTOMATION_COMPLETE",
+    "details": "Ultimate automation selesai (15 cycles)"
+  }
+]
