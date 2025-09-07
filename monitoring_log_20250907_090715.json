@@ -1,0 +1,20 @@
+{
+  "session_id": "20250907_090715",
+  "timestamp": "2025-09-07T09:07:15.072877",
+  "automation_status": "completed",
+  "user_profile": {},
+  "session_active": false,
+  "steps_completed": [
+    "launch_with_bypass",
+    "verify_session",
+    "navigate_dashboard",
+    "extract_user_profile",
+    "check_account_status",
+    "access_settings"
+  ],
+  "device_info": {
+    "emulator": "LDPlayer",
+    "package": "com.linecorp.LGRGS",
+    "adb_device": "emulator-5554"
+  }
+}
